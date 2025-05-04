@@ -47,30 +47,27 @@ The project is divided into two main components:
 
 ---
 
-## ✅ Example Usage
-
-bash
 # Run detection
 python run_detection.py
 
 # Run matching
 python run_matching.py
 
-**🔍 Matching Output**
+# 🔍 Matching Output
 Each match file (e.g., matches_fr1_to_fr2.txt) contains:
 
 A list of matched star coordinates from source to destination.
 
 A computed matching ratio showing the proportion of valid matches.
 
- **Evaluation & Results**
-Star matching results:
+ # Evaluation & Results
+**Star matching results:**
 ![fr1_to_fr1](https://github.com/user-attachments/assets/eaf94daf-e86d-4e6e-956a-c0d1f4b1131a)
 
 ![‏‏צילום מסך (1147)](https://github.com/user-attachments/assets/e9994b74-7b58-4d4c-afd5-b9a4a015e449)
 ![‏‏צילום מסך (1151)](https://github.com/user-attachments/assets/1cd6f9d5-deeb-4982-8bc1-1808c61ebbd2)
 
-detection results:
+**Detection results:**
 
 ![‏‏צילום מסך (1155)](https://github.com/user-attachments/assets/273f9ffd-f3a1-4a6e-8ae1-1f13e2e3d9be)
 ![‏‏צילום מסך (1154)](https://github.com/user-attachments/assets/b020c11f-7f20-4fc1-b698-c5d7e9aa2826)
