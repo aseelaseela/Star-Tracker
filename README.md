@@ -63,8 +63,8 @@ A computed matching ratio showing the proportion of valid matches.
  # Evaluation & Results
 **Star matching results:**
 ![fr1_to_fr1](https://github.com/user-attachments/assets/eaf94daf-e86d-4e6e-956a-c0d1f4b1131a)
+![‏‏צילום מסך (1147)](https://github.com/user-attachments/assets/1b962db2-4bc6-419f-960f-17ffe95224c3)
 
-![‏‏צילום מסך (1147)](https://github.com/user-attachments/assets/e9994b74-7b58-4d4c-afd5-b9a4a015e449)
 ![‏‏צילום מסך (1151)](https://github.com/user-attachments/assets/1cd6f9d5-deeb-4982-8bc1-1808c61ebbd2)
 
 **Detection results:**
